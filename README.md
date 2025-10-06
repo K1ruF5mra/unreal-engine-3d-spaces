@@ -28,6 +28,7 @@ Unreal Engineで制作した3D空間の作品
 
 ## 使用ツール
 - Unreal Engine
+- Blender
 
 ## 学んだこと
 - 3D空間のライティング技術
